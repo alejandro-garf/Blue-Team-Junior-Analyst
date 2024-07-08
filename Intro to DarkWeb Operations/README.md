@@ -16,3 +16,19 @@
 USR:KF7ybuD1, PASS: AlyhfotV9VIWm6W
 ```
  - Logged In
+### Decoding the Page
+ - Entire Page seems encoded in Hexadecimaks
+ - Decoded and found the drug dealers blog
+### Image Forenscics
+ - Reverse imaged searched image on the blog and got the location of Flexistowe England
+ - Found picture of US Passport on pictures in the blogs indicicating that he is a US Citizen
+ - Boarding pass gives name when upscalling the image: Kestner Richard
+ - Sticky note in one of the pictures gives Coordiates
+
+
+## Through this simple investigation I was able to obtain the following details of the dealer;
+### Username
+### Name
+### Location of Delivery
+### Country of Origin
+### Coordinates
