@@ -1,5 +1,6 @@
 # Capstone Project
 ## [Scenario](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/Intro%20to%20DarkWeb%20Operations/Scenario)
+## [Certificate]()
 ### Setting Up
  - Booted up my Vm
  - Turned on my VPN
