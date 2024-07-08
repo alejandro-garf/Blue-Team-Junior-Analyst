@@ -7,6 +7,6 @@
 ### Getting User Credentials 
  - Go to Login page, right clicked and went to console
  - used the following command
-''' # use this command & press ctrl+enter
+``` # use this command & press ctrl+enter
 
-generateUserCredentials() '''
+generateUserCredentials() ```
