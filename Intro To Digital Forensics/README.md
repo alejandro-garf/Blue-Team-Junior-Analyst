@@ -1,7 +1,7 @@
 
 # Capstone Project
 ## [Scenario](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/Intro%20To%20Digital%20Forensics/Scenario.md)
-## [Certificate](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/Intro%20to%20DarkWeb%20Operations/IntroToDarkwebOPs.pdf)
+## [Certificate](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/Intro%20To%20Digital%20Forensics/Course%20-%20Certificate%20-%20Introduction%20to%20Digital%20Forensics-course.pdf)
 ### Setting Up
  - Booted up my Vm
  - Downloaded the drive zip file.
