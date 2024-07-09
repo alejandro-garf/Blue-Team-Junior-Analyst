@@ -1,6 +1,6 @@
 
 # Capstone Project
-## [Scenario](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/Intro%20to%20DarkWeb%20Operations/Scenario)
+## [Scenario](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/Intro%20To%20Digital%20Forensics/Scenario.md)
 ## [Certificate](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/Intro%20to%20DarkWeb%20Operations/IntroToDarkwebOPs.pdf)
 ### Setting Up
  - Booted up my Vm
