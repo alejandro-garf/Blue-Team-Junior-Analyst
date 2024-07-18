@@ -6,6 +6,6 @@ Alexis is a fictional cybersecurity company with thousands of employees. An atta
 ```
 ## My Steps:
 
-### Step One, Finding the Mad Adress of the attaker 
+### 1. Finding the Mad Adress of the attaker 
 #### Use Wireshark to open the pcap file
 #### Typing in ssh into the display filter cuts packets that we need to inspect to 142
