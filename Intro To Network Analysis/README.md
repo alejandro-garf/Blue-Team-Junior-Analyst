@@ -1,5 +1,5 @@
 # Capstone Project
-## [Certificate](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/Intro%20To%20Vulnerability%20Management/Course%20-%20Certificate%20-%20Introduction%20to%20Vulnerability%20Management-course.pdf)
+## [Certificate](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/Intro%20To%20Network%20Analysis/Course%20-%20Certificate%20-%20Introduction%20to%20Network%20Analysis-course.pdf)
 ## Scenario
 ```
 Alexis is a fictional cybersecurity company with thousands of employees.
