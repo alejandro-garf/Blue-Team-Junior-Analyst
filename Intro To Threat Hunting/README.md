@@ -17,7 +17,27 @@ or whilst on a work network, as it may breach corporate policies. We are not res
 misuse of our challenge environment. Whilst the malware is easily detected (and confirmed to be removed by Windows Defender),
 we have disabled security features to allow this training scenario to work as intended.
 ```
-### My Steps
+### Initial Steps
 #### I used a Windows virtual machine to download the zip file for the challenge.
 #### Downloaded Redline onto my virtualized system
-#### We get an [initial message]() from Matt:
+#### We get an [initial message](https://raw.githubusercontent.com/alejandro-garf/Blue-Team-Junior-Analyst/main/Intro%20To%20Threat%20Hunting/1_B-DkYh0LLWnB3Z4KWP9qaQ.webp) from Matt:
+### Gathering Info
+#### Opened a powershell terminal and navigate to the location of the malware files.
+#### ran the following commands to get the MD5 and SHA256 hashes of the malware:
+```
+Get-FileHash -algorithm md5 “filename.extension”
+```
+```
+Get-FileHash “filename.extension”
+```
+#### Got the filenames and file sizes of the malware by right clicking the file then going to properties.
+#### Launched IOC Editor and created IOCs
+#### Launch Redline then go to IOC Search Collector and navigate to the folder location of the IOCs
+#### Ran and waited to get the Redline results
+#### Ran the RunRedlineAudit.bat script.
+#### This created a new folder called Sessions in the same location as the previously run script. 
+#### We will be using .mans file to view the results of the scan.
+####  Went back to Redline and selected "Open Previous Analysis" navigate to the location of the .mans.
+#### Viewed the results and used them to answer the questions for the Capstone Activity. 
+
+
