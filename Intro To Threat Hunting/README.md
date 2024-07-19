@@ -1,5 +1,5 @@
 # Capstone Project
-## [Certificate]()
+## [Certificate](https://github.com/alejandro-garf/Blue-Team-Junior-Analyst/blob/main/Intro%20To%20Threat%20Hunting/Course%20-%20Certificate%20-%20Introduction%20to%20Threat%20Hunting-course.pdf)
 ### Scenario
 ```
 You are a Junior Threat Hunter working for an organisation.Your Threat Intelligence team has obtained two
