@@ -18,6 +18,6 @@ misuse of our challenge environment. Whilst the malware is easily detected (and 
 we have disabled security features to allow this training scenario to work as intended.
 ```
 ### My Steps
-## I used a Windows virtual machine to download the zip file for the challenge.
-## Downloaded Redline onto my virtualized system
-## We get an [initial message]() from Matt:
+#### I used a Windows virtual machine to download the zip file for the challenge.
+#### Downloaded Redline onto my virtualized system
+#### We get an [initial message]() from Matt:
